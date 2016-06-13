@@ -13,7 +13,13 @@
 9. [***CSS***](#css)
 10. [***前端自動化套件***](#前端自動化套件)
 11. [***VisualStudio***](#visualstudio)
-12. 
+12. [***ASP.NET***](#aspnet)
+13. [***ASP.NET MVC***](#aspnet-mvc)
+14. [***Entity Framework***](#entity-framework)
+15. [***LinQ***](#linq)
+16. [***Object-Oriented Programming***](#object-oriented-programming)
+17. [***Github***](#github)
+18. [***DataBase**](#database)
 
 
 
