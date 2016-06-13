@@ -12,6 +12,8 @@
 8. [***Json***](#json)
 9. [***CSS***](#css)
 10. [***前端自動化套件***](#前端自動化套件)
+11. [***VisualStudio***](#visualstudio)
+12. 
 
 
 
@@ -77,3 +79,40 @@
 
 ## 前端自動化套件
 * [API自动化测试与持续集成 Grunt, Glup, Travis, Jenkins](http://www.jianshu.com/p/a3e35928a0aa/)
+
+## VisualStudio
+* [Studio Styles](http://studiostyl.es/)
+* [Visual Studio 快速鍵整理](http://kevintsengtw.blogspot.tw/2011/09/visual-studio.html)
+* [Visual Studio編譯小技巧：工具程式一檔搞定](http://blog.darkthread.net/post-2016-04-06-ilmerge-task-on-vs.aspx)
+
+## ASP.NET
+* [釐清 CLR、.NET、C#、Visual Studio、ASP.NET 各版本之間的關係](http://blog.miniasp.com/post/2015/07/28/Clarify-the-versions-between-CLR-NET-CSharp-Visual-Studio-and-ASPNET.aspx#continue)
+* [如何設定與啟用 ASP.NET 的 SQLServer 工作階段狀態模式](http://blog.miniasp.com/post/2011/09/13/Configure-SQL-Server-Session-State-Modes-for-ASPNET.aspx)
+
+## ASP.NET MVC
+* [Why MVC is better ?](http://www.codeproject.com/Articles/821275/Webforms-vs-MVC-and-Why-MVC-is-better)
+* [ASP.NET MVC 專案分層架構](http://kevintsengtw.blogspot.tw/2012/12/aspnet-mvc-part5-service.html)
+* [Introduction to ASP.NET MVC](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-mvc-8322?l=nKZwZ8Zy_3504984382)
+
+## Entity Framework
+* [Validation attributes in Code-First](http://www.codeproject.com/Articles/741012/Validation-attributes-in-Code-First)
+* [Working with Transactions](https://msdn.microsoft.com/en-us/data/dn456843.aspx)
+* [使用 Fluent 應用程式開發介面設定/對應屬性與型別](https://msdn.microsoft.com/zh-tw/data/jj591617.aspx)
+
+## LinQ
+* [MSDN - Lambda](https://msdn.microsoft.com/zh-tw/library/bb397687.aspx)
+* [快快樂樂學LINQ系列前哨戰－Lambda的簡介](https://dotblogs.com.tw/hatelove/archive/2012/06/07/csharp-linq-lambda-introduction.aspx)
+* [從 Lambda 表示式到 LINQ](http://huan-lin.blogspot.com/2009/01/from-lambda-to-linq.html)
+* [What's the difference(s) between .ToList(), .AsEnumerable(), AsQueryable()?](http://stackoverflow.com/questions/17968469/whats-the-differences-between-tolist-asenumerable-asqueryable)
+
+## Object-Oriented Programming
+* [設計模式筆記](https://rongli.gitbooks.io/design-pattern/content/index.html)
+
+## Github
+* [連猴子都能懂的 Git 入門指南](http://backlogtool.com/git-guide/tw/)
+
+## DataBase
+* [How to Kill SQL Threads or Kill User Sessions](https://servergeeks.wordpress.com/2013/09/10/how-to-kill-sql-threads-or-kill-user-sessions/)
+* [GUID Primary Key資料庫避雷守則](http://blog.darkthread.net/post-2016-01-29-guid-as-pk-on-db.aspx)
+* [10 Easy Steps to a Complete Understanding of SQL](https://blog.jooq.org/2016/03/17/10-easy-steps-to-a-complete-understanding-of-sql/?utm_campaign=CodeTengu&utm_medium=email&utm_source=CodeTengu_36)
+* [How to Write to a Text File from SQL Server](http://devwithdave.com/SQLServer/stored-procedures/SQLServer-StoredProcedures--HOW-TO-WRITE-TO-A-TEXT-FILE.asp)
