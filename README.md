@@ -5,26 +5,29 @@
 1. [***HTML***](#html)
 2. [***UI & UX***](#ui--ux)
 3. [***JavaScript***](#javascript)
-4. [***TypeScript***](#typescript)
-5. [***AngularJS***](#angularjs)
-6. [***React***](#react)
-7. [***Vue.js***](#vuejs)
-8. [***Json***](#json)
-9. [***CSS***](#css)
-10. [***前端自動化套件***](#前端自動化套件)
-11. [***VisualStudio***](#visualstudio)
-12. [***ASP.NET***](#aspnet)
-13. [***ASP.NET MVC***](#aspnet-mvc)
-14. [***Entity Framework***](#entity-framework)
-15. [***LinQ***](#linq)
-16. [***Object-Oriented Programming***](#object-oriented-programming)
-17. [***Github***](#github)
-18. [***DataBase***](#database)
+4. [***VanillaJS***](#vanillajs)
+5. [***TypeScript***](#typescript)
+6. [***AngularJS***](#angularjs)
+7. [***React***](#react)
+8. [***Vue.js***](#vuejs)
+9. [***Json***](#json)
+10. [***CSS***](#css)
+11. [***前端自動化套件***](#前端自動化套件)
+12. [***VisualStudio***](#visualstudio)
+13. [***ASP.NET***](#aspnet)
+14. [***ASP.NET MVC***](#aspnet-mvc)
+15. [***Entity Framework***](#entity-framework)
+16. [***LinQ***](#linq)
+17. [***Object-Oriented Programming***](#object-oriented-programming)
+18. [***TDD***](#tdd)
+19. [***Github***](#github)
+20. [***DataBase***](#database)
 
 
 
 ## HTML
 * [關掉 input 自動完成功能](https://dotblogs.com.tw/hatelove/archive/2012/05/23/autocomplete-off-example.aspx)
+* [What's the proper value for a checked attribute of an HTML checkbox?](http://stackoverflow.com/questions/7851868/whats-the-proper-value-for-a-checked-attribute-of-an-html-checkbox)
 
 ## UI & UX
 * [UI、UX 傻傻分不清？11 張圖讓你秒懂！](http://www.inside.com.tw/2016/01/31/ui-vs-ux-whats-the-difference)
@@ -43,6 +46,12 @@
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/intro)
 * [Javascript Promise, generator, async與ES6](http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6)
 * [Can i use _ ?](http://caniuse.com/#)
+* [MVC 架構演進 — 為什麼需要MVC](https://medium.com/@rayshih771012/mvc-%E6%9E%B6%E6%A7%8B%E6%BC%94%E9%80%B2-%E7%82%BA%E4%BB%80%E9%BA%BC%E9%9C%80%E8%A6%81mvc-d1a13aa687a0#.8rovg1bee)
+* [MVC 架構演進 — Single Source of Truth](https://medium.com/@rayshih771012/mvc-%E6%9E%B6%E6%A7%8B%E6%BC%94%E9%80%B2-single-source-of-truth-2720f5a5facd#.b78ti4vee)
+* [Javascript Internationalization (i18n) library](https://code.essoduke.org/i18n/)
+
+## VanillaJS
+* [The Vanilla Javascript Repository](http://www.vanillalist.com/)
 
 ## TypeScript
 * [TypeScript.org 官方網站](https://www.typescriptlang.org/)
@@ -99,6 +108,8 @@
 * [Why MVC is better ?](http://www.codeproject.com/Articles/821275/Webforms-vs-MVC-and-Why-MVC-is-better)
 * [ASP.NET MVC 專案分層架構](http://kevintsengtw.blogspot.tw/2012/12/aspnet-mvc-part5-service.html)
 * [Introduction to ASP.NET MVC](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-mvc-8322?l=nKZwZ8Zy_3504984382)
+* [新版 MSDN](https://docs.microsoft.com/zh-tw/)
+* [Microsoft Virtual Academy 官方線上影片教學課程](https://mva.microsoft.com/)
 
 ## Entity Framework
 * [Validation attributes in Code-First](http://www.codeproject.com/Articles/741012/Validation-attributes-in-Code-First)
@@ -114,8 +125,13 @@
 ## Object-Oriented Programming
 * [設計模式筆記](https://rongli.gitbooks.io/design-pattern/content/index.html)
 
+## TDD
+* [程式設計師升級必練內功：TDD Kata](https://blog.alphacamp.co/2015/03/02/tdd-kata/)
+
 ## Github
 * [連猴子都能懂的 Git 入門指南](http://backlogtool.com/git-guide/tw/)
+* [Github Emoji](http://www.emoji-cheat-sheet.com/)
+* [RawGit](http://rawgit.com/)
 
 ## DataBase
 * [How to Kill SQL Threads or Kill User Sessions](https://servergeeks.wordpress.com/2013/09/10/how-to-kill-sql-threads-or-kill-user-sessions/)
