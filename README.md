@@ -22,6 +22,7 @@
 18. [***TDD***](#tdd)
 19. [***Github***](#github)
 20. [***DataBase***](#database)
+21. [***GraphQL***](#graphql)
 
 
 
@@ -49,6 +50,8 @@
 * [MVC 架構演進 — 為什麼需要MVC](https://medium.com/@rayshih771012/mvc-%E6%9E%B6%E6%A7%8B%E6%BC%94%E9%80%B2-%E7%82%BA%E4%BB%80%E9%BA%BC%E9%9C%80%E8%A6%81mvc-d1a13aa687a0#.8rovg1bee)
 * [MVC 架構演進 — Single Source of Truth](https://medium.com/@rayshih771012/mvc-%E6%9E%B6%E6%A7%8B%E6%BC%94%E9%80%B2-single-source-of-truth-2720f5a5facd#.b78ti4vee)
 * [Javascript Internationalization (i18n) library](https://code.essoduke.org/i18n/)
+* [關於 JS 中的淺拷貝和深拷貝](http://larry850806.github.io/2016/09/20/shallow-vs-deep-copy/)
+* [ECMAScrpt 5 物件與特性操作](http://www.codedata.com.tw/javascript/essential-javascript-7-ecmascript5-object-properties/)
 
 ## VanillaJS
 * [The Vanilla Javascript Repository](http://www.vanillalist.com/)
@@ -72,13 +75,21 @@
 * [input file bind to scope directive 把 input file 與 scope 連結在一起](http://stackoverflow.com/questions/15079779/how-to-clear-a-file-input-from-angular-js)
 
 ## React
-* [React 官方網站](https://facebook.github.io/react/)
+* [React 官方網站](https://facebook.github.io/react)
+* [React Community](https://github.com/reactjs)
 * [ReactJS.net](http://reactjs.net/)
 * [OverReact 產生器](http://www.overreact.io/)
 * [不要只因為性能考量而選擇 React.js](http://cepave.com/do-not-choose-react-just-for-performance/)
 * [React 测试入门教程](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html)
 * [Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.984gca4pd)
 * [Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.9ees22hdm)
+* [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component/)
+* [React Ajax Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
+* [Reactjs 的 key 使用方法](http://jamestw.logdown.com/posts/258358-react-key-usage)
+* [React 实践心得：key 属性的原理和用法](http://taobaofed.org/blog/2016/08/24/react-key/)
+* [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
+* [React 的野望](http://eddychang.me/blog/javascript/93-react-ambition.html)
+
 
 ## Vue.js
 * [Vuejs.org 官方網站](vuejs.org)
@@ -138,3 +149,7 @@
 * [GUID Primary Key資料庫避雷守則](http://blog.darkthread.net/post-2016-01-29-guid-as-pk-on-db.aspx)
 * [10 Easy Steps to a Complete Understanding of SQL](https://blog.jooq.org/2016/03/17/10-easy-steps-to-a-complete-understanding-of-sql/?utm_campaign=CodeTengu&utm_medium=email&utm_source=CodeTengu_36)
 * [How to Write to a Text File from SQL Server](http://devwithdave.com/SQLServer/stored-procedures/SQLServer-StoredProcedures--HOW-TO-WRITE-TO-A-TEXT-FILE.asp)
+
+## GraphQL
+* [Data Fetching 的過去與未來 － from REST to GraphQL + Relay](https://chentsulin.github.io/modernweb2016-graphql-relay-intro/#/37?_k=z2mdbk)
+* [Why I believe GraphQL will come to replace REST](https://dev.to/reactiveconf/why-i-believe-graphql-will-come-to-replace-rest)
