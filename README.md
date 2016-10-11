@@ -1,5 +1,5 @@
 # Web Development 參考資料
-> Edit Date： 2016/10/9
+> Edit Date： 2016/10/11
 
 ## 目錄
 1. [***HTML***](#html)
@@ -23,6 +23,7 @@
 19. [***Github***](#github)
 20. [***DataBase***](#database)
 21. [***GraphQL***](#graphql)
+22. [***Bash Shell***](#bash-shell)
 
 
 
@@ -153,3 +154,10 @@
 ## GraphQL
 * [Data Fetching 的過去與未來 － from REST to GraphQL + Relay](https://chentsulin.github.io/modernweb2016-graphql-relay-intro/#/37?_k=z2mdbk)
 * [Why I believe GraphQL will come to replace REST](https://dev.to/reactiveconf/why-i-believe-graphql-will-come-to-replace-rest)
+
+## Bash Shell
+* [Homebrew](http://brew.sh/index_zh-tw.html)
+* [Fish shell](https://fishshell.com/)
+* [Fisherman](https://github.com/fisherman/fisherman/wiki/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87)
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+* [在 OSX 使用 Fish shell 取代 bash/zsh](http://jigsawye.com/2016/06/20/install-fish-shell-on-os-x/)
