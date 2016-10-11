@@ -24,6 +24,7 @@
 20. [***DataBase***](#database)
 21. [***GraphQL***](#graphql)
 22. [***Bash Shell***](#bash-shell)
+23. [***Design***](#design)
 
 
 
@@ -161,3 +162,7 @@
 * [Fisherman](https://github.com/fisherman/fisherman/wiki/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87)
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 * [在 OSX 使用 Fish shell 取代 bash/zsh](http://jigsawye.com/2016/06/20/install-fish-shell-on-os-x/)
+
+## Design
+* [uigradients](http://uigradients.com/)
+* [寫給不是設計師的-漸層配色](https://medium.com/@citysite1025/%E5%AF%AB%E7%B5%A6%E4%B8%8D%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E7%9A%84-%E6%BC%B8%E5%B1%A4%E9%85%8D%E8%89%B2-%E4%B8%8A-b1f9771dd803#.rhghyr9rj)
