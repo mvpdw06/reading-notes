@@ -96,6 +96,7 @@
 * [React 实践心得：key 属性的原理和用法](http://taobaofed.org/blog/2016/08/24/react-key/)
 * [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
 * [React 的野望](http://eddychang.me/blog/javascript/93-react-ambition.html)
+* [深入 React Reconciliation Bailout 機制](https://blog.wuct.me/react-internal-reconciliation-bailout-587695eb05a8#.nhkza2ivz)
 
 
 ## Vue.js
@@ -112,6 +113,7 @@
 ## CSS
 * [學習 CSS 版面配置](http://zh-tw.learnlayout.com/)
 * [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
+* [Scroll Indicator](http://codepen.io/MadeByMike/pen/ZOrEmr/)
 
 ## 前端自動化套件
 * [API自动化测试与持续集成 Grunt, Glup, Travis, Jenkins](http://www.jianshu.com/p/a3e35928a0aa/)
