@@ -1,5 +1,5 @@
 # Web Development 參考資料
-> Edit Date： 2016/10/11
+> Edit Date： 2016/11/1
 
 ## 目錄
 1. [***HTML***](#html)
@@ -26,6 +26,7 @@
 22. [***Bash Shell***](#bash-shell)
 23. [***Design***](#design)
 24. [***Thinking***](#thinking)
+25. [***Yarn***](#yarn)
 
 
 
@@ -55,6 +56,9 @@
 * [Javascript Internationalization (i18n) library](https://code.essoduke.org/i18n/)
 * [關於 JS 中的淺拷貝和深拷貝](http://larry850806.github.io/2016/09/20/shallow-vs-deep-copy/)
 * [ECMAScrpt 5 物件與特性操作](http://www.codedata.com.tw/javascript/essential-javascript-7-ecmascript5-object-properties/)
+* [How to Log Client-Side JavaScript Errors](https://codetrick.net/p/BJokj1lEA/how-to-log-client-side-javascript-errors/)
+* [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+* [用 JavaScript 學習資料結構和演算法：堆疊（Stack）篇](http://blog.techbridge.cc/2016/06/24/javascript-data-structure-algorithm-stack/)
 
 ## VanillaJS
 * [The Vanilla Javascript Repository](http://www.vanillalist.com/)
@@ -97,6 +101,8 @@
 ## Vue.js
 * [Vuejs.org 官方網站](vuejs.org)
 * [Mint UI 基于 Vue.js 的移动端组件库](http://mint-ui.github.io/)
+* [Vue.js作者尢雨溪：Vue 2.0——渐进式前端解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994529&idx=1&sn=953bf1d92cc2a7b278d0761d3e433803&chksm=bdbf0f328ac886245652735e4dfa1b39b1357b9f36ccf1b337714ac81810f8441d189ce89615&scene=0#wechat_redirect)
+* [新手向：Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
 
 ## Json
 * [JSON(反)序列化之唯快不破新選擇-Jil](http://blog.kkbruce.net/2016/02/a-fast-json-de-serializer-choice-jil.html?m=1#.Vr1Hv1V9DGI.facebook)
@@ -105,6 +111,7 @@
 
 ## CSS
 * [學習 CSS 版面配置](http://zh-tw.learnlayout.com/)
+* [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 
 ## 前端自動化套件
 * [API自动化测试与持续集成 Grunt, Glup, Travis, Jenkins](http://www.jianshu.com/p/a3e35928a0aa/)
@@ -117,6 +124,8 @@
 ## ASP.NET
 * [釐清 CLR、.NET、C#、Visual Studio、ASP.NET 各版本之間的關係](http://blog.miniasp.com/post/2015/07/28/Clarify-the-versions-between-CLR-NET-CSharp-Visual-Studio-and-ASPNET.aspx#continue)
 * [如何設定與啟用 ASP.NET 的 SQLServer 工作階段狀態模式](http://blog.miniasp.com/post/2011/09/13/Configure-SQL-Server-Session-State-Modes-for-ASPNET.aspx)
+* [ASP.NET Core 性能对比评测（ASP.NET，Python，Java，NodeJS）](http://www.cnblogs.com/savorboard/p/dotnet-benchmarks.html)
+* [15 Lessons Learned while Converting from ASP.NET to .NET Core](http://stackify.com/15-lessons-learned-while-converting-from-asp-net-to-net-core/)
 
 ## ASP.NET MVC
 * [Why MVC is better ?](http://www.codeproject.com/Articles/821275/Webforms-vs-MVC-and-Why-MVC-is-better)
@@ -163,6 +172,7 @@
 * [Fisherman](https://github.com/fisherman/fisherman/wiki/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87)
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 * [在 OSX 使用 Fish shell 取代 bash/zsh](http://jigsawye.com/2016/06/20/install-fish-shell-on-os-x/)
+* [chain Fish commands via `&&` or `||`](http://superuser.com/questions/446930/chain-fish-commands-via-or/446932)
 
 ## Design
 * [uigradients](http://uigradients.com/)
@@ -171,3 +181,7 @@
 ## Thinking
 * [Google 衝刺計畫: 快速列出所有解決方案](http://kojenchieh.pixnet.net/blog/post/449445566-google-%E8%A1%9D%E5%88%BA%E8%A8%88%E7%95%AB:-%E5%BF%AB%E9%80%9F%E5%88%97%E5%87%BA%E6%89%80%E6%9C%89%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88)
 * [ORID焦點討論法](http://www.slideshare.net/shutingchuang940/orid-43587601)
+
+## Yarn
+* [[譯] Yarn - Javascript 新一代套件管理](http://andyyou.github.io/2016/10/12/new-package-manager-javascript-yarn/)
+* [利用 Yarn 安裝 Vue-cli](http://kuro.tw/posts/2016/10/13/%E5%88%A9%E7%94%A8-yarn-%E5%AE%89%E8%A3%9D-vue-cli/)
